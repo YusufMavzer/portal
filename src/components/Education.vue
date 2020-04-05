@@ -5,7 +5,7 @@
         <span class="ml-2 subtitle-2">Education</span>
       </h2>
       <div fluid class="ma-0 pa-0 d-flex flex-wrap align-start justify-start">
-        <v-card v-for="(frame, i) in educations" :key="i" class="ma-0 pa-3 mr-5 mb-5 " width="300px" outlined>
+        <v-card v-for="(frame, i) in educations" :key="i" class="ma-0 pa-3 mr-2 mb-5 " width="275px" outlined>
             <v-card-title  :class="`ma-0 pa-0 subtitle-2 font-weight-regular mb-1 secondary--text text--darken-3`">{{ frame.year }}</v-card-title>
             <v-card-subtitle class="caption ma-0 pa-0 secondary-text">{{ frame.title }}</v-card-subtitle>
             <v-card-text class="ma-0 pa-0 caption font-regular secondary--text text--darken-2">

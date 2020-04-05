@@ -4,12 +4,12 @@
         <v-icon class="primary--text">mdi-briefcase-clock</v-icon>
         <span class="ml-2 subtitle-2">Work experience</span>
       </h2>
-      <div fluid class="ma-0 pa-0 d-flex flex-wrap align-start justify-space-between mw">
+      <div fluid class="ma-0 pa-0 d-flex flex-column align-start justify-center mw">
         <div v-for="(e, i) in experiences" :key="i" class="ma-0 px-0 py-4">
-          <h3 class="ma-0 pa-0 body-2 secondary--text">{{ e.title }}</h3>
-          <p class="caption ma-0 pa-0">{{ e.subtitle }}</p>
-          <p class="caption ma-0 pa-0">{{ e.period }}</p>
-          <p class="ma-0 pa-0 caption font-regular grey--text text--darken-2">{{ e.text }}</p>
+          <h3 class="ma-0 pa-0 body-1 secondary--text text--darken-1">{{ e.title }}</h3>
+          <p class="body-2 ma-0 pa-0 secondary--text text--darken-2">{{ e.subtitle }}</p>
+          <p class="body-2 ma-0 pa-0 secondary--text text--darken-2">{{ e.period }}</p>
+          <p class="ma-0 pa-0 body-2 font-weight-medium secondary--text text--darken-4">{{ e.text }}</p>
         </div>
       </div>
     </div>
@@ -32,7 +32,7 @@ export default Vue.extend({
 <style lang="scss" scoped>
 @import "@/scss/font-sizes.scss";
 .mw > div{
-  min-width: 250px;
-  max-width: 50%;
+  min-width: 350px;
+  max-width: 85%;
 }
 </style>

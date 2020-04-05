@@ -5,7 +5,7 @@
         <span class="ml-2 subtitle-2">Skills & Endorsements</span>
       </h2>
       <div class="ma-0 pa-0 d-flex flex-wrap align-start justify-space-between">
-        <v-chip class="ma-1 ml-0 overline grey lighten-2 secondary--text" outlined v-for="tag in tags" :key="tag"  >
+        <v-chip class="ma-1 ml-0 overline grey lighten-2 secondary secondary--text" outlined  v-for="tag in tags" :key="tag"  >
           {{ tag }}
         </v-chip>
       </div>

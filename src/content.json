@@ -1,0 +1,293 @@
+{
+    "headline": {
+        "name": "Yusuf Mavzer",
+        "function": "Fullstack Senior Dotnet Developer",
+        "socials": [
+            {
+                "name": "Linkedin",
+                "href": "https://www.linkedin.com/in/yusuf-mavzer/",
+                "icon": "mdi-linkedin",
+                "color": "blue"
+            },
+            {
+                "name": "Stackoverflow",
+                "href": "https://stackoverflow.com/users/8890779/yusuf-mavzer",
+                "icon": "mdi-stack-overflow",
+                "color": "orange"
+            },
+            {
+                "name": "Github",
+                "href": "https://github.com/YusufMavzer",
+                "icon": "mdi-github-circle",
+                "color": "secondary"
+            },
+            {
+                "name": "Docker",
+                "href": "https://hub.docker.com/u/yusufmavzer",
+                "icon": "mdi-docker",
+                "color": "blue"
+            },
+            {
+                "name": "Sourcecode",
+                "href": "https://github.com/YusufMavzer/portal.git",
+                "icon": "mdi-git",
+                "color": "orange"
+            },
+            {
+                "name": "resume",
+                "href": "https://drive.google.com/file/d/1kIR-GHhL-fDcQ7G_MaP_575tKsTbAT7I/view?usp=sharing",
+                "icon": "mdi-pdf-box",
+                "color": "red"
+            }
+        ]
+    },
+    "about": {
+        "title": "Who am I?",
+        "intro": "Every person has a fundamental quality in life, mine happens to be curiosity especially in the field of tech. From the moment I became aware of life to the point I'm standing. Luckily, that curiosity lead me towards computers. At the age of 11, I was able to assemble my own personal computer with specific parts of need. Diagnose any hardware and software problem and repair it instead of just reinstalling the OS, wich was a nice skill to have before starting high school.",
+        "paragraphs": [
+            "Reaching the age of 16, I wanted to do new things. Building computers/ servers is fun and all but it wasn't giving me much excitement anymore. So I taught myself programming. Thinking I'll will be done with the subject by the age of 18. Couldn't have been more wrong. The world of software development itself has so many branches, architectures, topic and discussion that I often find myself in overdrive in learning them. It's an obsession. But every hypothesis in life needs tests to make sure it works. Well that was exactly what I did. Every moment I learnt something new, I tried to apply it in my daily routine. This also includes unlearning deprecated architectures and/or bad programming habits.",
+            "This type of lifestyle made it possible to have a somewhat unique and exciting career path. From building an online startup in a 16m² room to providing software services to large multinational corporation of any industry. Something I'm deeply grateful for.",
+            "Achievements so far are <ul> <li>an online food ordering platform, tech startup</li> <li>freelancing for companies in the fields of food and beverages ,electronics (metrology systems), steel company (production automation), education (cloud solution) and ofcourse FinTech (working with accountants, bank integrations, sme's)</li></ul>"
+        ]
+    },
+    "courses": [
+        {
+            "name": "Amazon VPC Operations",
+            "source": "PluralSight"
+        },
+        {
+            "name": "Amazon ECS Fargate",
+            "source": "PluralSight"
+        },
+        {
+            "name": "Amazon EKS",
+            "source": "PluralSight"
+        },
+        {
+            "name": "ASP.NET MVC",
+            "source": "PluralSight"
+        },
+        {
+            "name": "ASP.NET WebAPI",
+            "source": "PluralSight"
+        },
+        {
+            "name": "ASP.NET WebForms",
+            "source": "PluralSight"
+        },
+        {
+            "name": "AWS Compute",
+            "source": "PluralSight"
+        },
+        {
+            "name": "Angular Fundamentals",
+            "source": "PluralSight"
+        },
+        {
+            "name": "C Fundamentals",
+            "source": "PluralSight"
+        },
+        {
+            "name": "C# for Advanced",
+            "source": "PluralSight"
+        },
+        {
+            "name": "C++/CLR",
+            "source": "PluralSight"
+        },
+        {
+            "name": "Design Patterns with C#",
+            "source": "PluralSight"
+        },
+        {
+            "name": "Docker",
+            "source": "PluralSight"
+        },
+        {
+            "name": "Entity Framework",
+            "source": "PluralSight"
+        },
+        {
+            "name": "Git",
+            "source": "PluralSight"
+        },
+        {
+            "name": "JS6 for JS5 Developers",
+            "source": "PluralSight"
+        },
+        {
+            "name": "Microservices",
+            "source": "PluralSight"
+        },
+        {
+            "name": "Azure App Services",
+            "source": "PluralSight"
+        },
+        {
+            "name": "Azure Storage",
+            "source": "PluralSight"
+        },
+        {
+            "name": "Azure Virtual Machine",
+            "source": "PluralSight"
+        },
+        {
+            "name": "Modern C++ (C++17)",
+            "source": "PluralSight"
+        },
+        {
+            "name": "React Fundamentals",
+            "source": "PluralSight"
+        },
+        {
+            "name": "Rest Services",
+            "source": "PluralSight"
+        },
+        {
+            "name": "Solid Principals for OOPS",
+            "source": "PluralSight"
+        },
+        {
+            "name": "T4 Templates",
+            "source": "PluralSight"
+        },
+        {
+            "name": "Typescript Fundamentals",
+            "source": "PluralSight"
+        },
+        {
+            "name": "VB.NET for Advanced",
+            "source": "PluralSight"
+        },
+        {
+            "name": "VueJS Fundamentals",
+            "source": "PluralSight"
+        },
+        {
+            "name": "WCF",
+            "source": "PluralSight"
+        },
+        {
+            "name": "WPF",
+            "source": "PluralSight"
+        },
+        {
+            "name": "Winforms",
+            "source": "PluralSight"
+        }
+    ],
+    "skills": [
+        ".NET Framwork",
+        ".NET Core",
+        "C#",
+        "VB.NET",
+        "Modern C++",
+        "ES6",
+        "Typescript",
+        "HTML",
+        "CSS",
+        "VueJS",
+        "ReactJS",
+        "SQL",
+        "ADO.NET",
+        "Entity Framework",
+        "NoSQL",
+        "MsSQL",
+        "MongoDB",
+        "ElasticSearch",
+        "Docker",
+        "Microservices",
+        "RabbitMQ",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Windows",
+        "Linux (Debian/ Ubuntu)",
+        "Git",
+        "GitOps",
+        "Terraform",
+        "Scrum",
+        "UML",
+        "WebAPI",
+        "Mvc",
+        "WPF",
+        "WCF",
+        "WinForms",
+        "WebForms",
+        "Razor",
+        "XML",
+        "JSON",
+        "YAML",
+        "XAML"
+    ],
+    "educations": [
+        {
+            "year": "2014 - 2016",
+            "title": "Bachelor of Applied Informatics",
+            "text": "University College of Ghent"
+        },
+        {
+            "year": "2008 - 2014",
+            "title": "Technical Secundairy Education",
+            "text": "Benedictuspoort Campus Ledeberg"
+        }
+    ],
+    "experiences": [
+        {
+            "period": "Jan 2020 - Present",
+            "title": "Fullstack Senior Dotnet Developer",
+            "subtitle": "Toco Belgium · Freelancer",
+            "text": "Toco is an online platform targeted for SMEs and Accountants. It provides services such as online payment, document upload, transaction linking, prebookings and messaging services, etc... My role was to develop mainly on the banking microservice and ui which was used C# .net core/ VueJS/ Docker/ Google Cloud Alongside this I was also assigned to maintain our DevOps tools and make sure out GitOps was’t dirsturbed"
+        },
+        {
+            "period": "Aug 2019 - Jan 2020 · 6mos",
+            "title": "Fullstack Senior Dotnet Developer",
+            "subtitle": "ArcelorMittal Belgium · Freelancer",
+            "text": "At arcelor I had to maintain an older software. The software itself was used by the planner and plant managers. There they schedule what should be produced, quantity, when it should be done, alongside it give insight over the physical machines, temperatures of the ovens, etc... It made of older technology WinForms, CRUD, C#, VB.NET , etc..."
+        },
+        {
+            "period": "Apr 2019 - Jul 2019 · 4mos",
+            "title": "Fullstack Senior Dotnet Developer",
+            "subtitle": "SignPost Belgium · Freelancer",
+            "text": "The company provides computer and software services to schools. Colleges and Universities wanted a better student friendly cloud platform where their IT students can easily get aware of the Cloud Service Provider and at the same time reduce costs by killing idle VMs and services.. My task was to write a student friendly wrapper with telemetry software around Microsoft Azure. Here the students could start/ kill virtual machines. Setup their own VPC, etc... Schools on the other hand could track what students are doing, inject software if needed. It was mainly infrastructure as service"
+        },
+        {
+            "period": "Oct 2018 - Apr 2019 · 7mos",
+            "title": "Fullstack Medior Dotnet Developer",
+            "subtitle": "KLA-Tencor Belgium · Freelancer",
+            "text": "KLA is a large international corporation that provides industrial grade tools to inspect expensive silicon semiconductors (wafers). The machine I was assigned to was Zeta. Zeta is a metrology tool that can collect and calculate with huge amounts of visual data in a very short time frame. My job was to visualize the data coming from an unmanaged software C++ to a managed software C#. Here I created custom plotting tools, video players, timeline tracker, reporting tools, etc... On the hardware side I had programmed the machine so that it could perform its physical duties. Integrate new pieces of Hardware. This was done in C/C++"
+        },
+        {
+            "period": "Oct 2016 - Aug 2018 · 1yrs 11mos",
+            "title": "Founder & Developer",
+            "subtitle": "YummyExpress.be Belgium · Self-employed",
+            "text": "YummyExpress was a small online food ordering platform just like TakeAway.com / Ubereats who worked with 125+ delivery restaurants in the Flemish region in Belgium. The platform not only made it possible for customers to order food and send it online to the restaurants but it also collected analytical data, generated invoices. Made online automatic payments, gave SEO stats from competitors. I also integrated with POS companies, developed inhouse custom software for handheld devices that worked on GPRS/ 3G for restaurants to receive their order. A CMS to manage their orders etc... Sadly due to high competitions and limited financial resources. I pulled the plug. But I’m grateful for the amazing experience."
+        },
+        {
+            "period": "Apr 2014 - Oct 2016 · 2yrs 7mos",
+            "title": "Fullstack Junior Dotnet Developer",
+            "subtitle": "Misc · Freelancer",
+            "text": "During my education I developed and sold selfmade POS systems and webshops to various small businesses. Mainly delivery restaurants and barbershops. For custom hardware and/or a regular desktop. This organic growth lead to my Startup (YummyExpress)"
+        },
+        {
+            "period": "Feb 2014 - Feb 2014 · 1mos",
+            "title": "Intern",
+            "subtitle": "Imec (IMinds) · Internship",
+            "text": "IMec is by now probably a well known tech company in Belgium. It used to be IMinds and was located in Ledeberg. My internship was mainly hardware maintenance and a bit of programming. I had to assemble servers, configure switches, etc... But also write small scripts that monitor server states and behaviors."
+        }
+    ],
+    "languages": [
+        {
+            "title": "Dutch",
+            "subtitle": "Native or bilingual proficiency"
+        },
+        {
+            "title": "English",
+            "subtitle": "Full professional proficiency"
+        },
+        {
+            "title": "Turkish",
+            "subtitle": "Native or bilingual proficiency"
+        }
+    ]
+}

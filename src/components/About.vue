@@ -4,14 +4,14 @@
         <v-icon class="primary--text">mdi-account</v-icon>
         <span class="ml-2 subtitle-2">{{ article.title }}</span>
       </h2>
-      <p class="pa-0 ma-0 body-2 text-justify secondary--text dark">
+      <p class="pa-0 ma-0 body-2 text-justify secondary--text text--darken-4">
         {{ article.intro }}
       </p>
       <div :class="`para pa-0 ma-0 ${!readMoreToggle ? `hidden` : ``}`">
         <p
           v-for="p in article.paragraphs"
           :key="p"
-          class="pa-0 ma-0 mt-3 body-2 text-justify secondary--text"
+          class="pa-0 ma-0 mt-3 body-2 text-justify secondary--text text--darken-4"
           v-html="p"
         />
       </div>
@@ -28,7 +28,7 @@ export default Vue.extend({
   props: {
     article: {
       type: Object,
-      default: {} as Article,
+      default: {} as any,
       required: true,
     },
   },
